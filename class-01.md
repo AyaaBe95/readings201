@@ -46,7 +46,7 @@
  * ### What is the wireframe? ##
    -A wireframe is a simple sketch of the key information that needs to go on each page of a site.
   ### Example of wirefrme ###
-   ![wireframe](https://cdn.tutsplus.com/webdesign/uploads/legacy/tuts/341_wf/wireframes-simple.png)
+   ![wireframe](https://i.pinimg.com/originals/c3/de/24/c3de24c8c79004b349f12052f76d70b0.png)
    
 ## Design ##
 
