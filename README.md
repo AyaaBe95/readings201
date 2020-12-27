@@ -1,1 +1,5 @@
-# readings201
+# Code 201 Reading Notes #
+
+## *Welcome to my readings notes* ##
+
+### **Here I will share with you all of notes that I will write it during my journey in Code201 course at ASAC college** ###
