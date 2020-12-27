@@ -9,6 +9,6 @@
 > Table of contents
 
 | Class01a |[Notes 1](/)|
-| :---  |            ---:                                         |
+| :---  |          ---: |
 
 | Class01b |[Notes 1](/)|
