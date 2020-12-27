@@ -14,7 +14,8 @@
  * The <div> and <span> elements allow you to group block-level and inline elements together.
  * The <div> and <span> elements allow you to group block-level and inline elements together.
   
- ### HTML layout ## 
+ ### HTML layout ###
+ 
  > HTML5 introduces a new set of elements that allow you to divide up the parts of a page.
  
  ### How we use HTML tags to create our layout? ###
