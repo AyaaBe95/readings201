@@ -13,7 +13,7 @@
  * You can add comments to your code between the <!-- and --> markers.
  * The < div > and < span > elements allow you to group block-level and inline elements together.
   
- ### HTML layout ###
+ ###HTML layout###
  
  > HTML5 introduces a new set of elements that allow you to divide up the parts of a page.
  
