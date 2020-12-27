@@ -6,7 +6,7 @@
 
 ### What is the structure of HTML ? ###
 
-![Structure](http://www.scriptingmaster.com/images/html/basic-html-tags.GIF)
+![Structure](https://qatechhub.com/wp-content/uploads/2016/09/BasicHtmlStructure.png)
 
 ### Notes ###
  * DOCTYPES tell browsers which version of HTML we are using.
@@ -56,16 +56,16 @@
 
 ## What is Javascript? ##
 
- ## *JavaScript is a scripting or programming language that allows you to implement complex features on web pages* ##
+ - JavaScript is a scripting or programming language that allows you to implement complex features on web pages 
 
- ## *JavaScript is written in plain text, just like HTML and CSS, so you do not need any new tools to write a script.* ##
+- JavaScript is written in plain text, just like HTML and CSS, so you do not need any new tools to write a script.
 
 # How we link Javascript with HTML? #
 - ### create an external JavaScript ###
 - ### Save the script file with a .js extension ###
 - ### refer to it using the src attribute in the < script > tag. ###
 
-> ### JavaScript variables are containers for storing data values. ###
+* ### JavaScript variables are containers for storing data values. 
 
 
 
