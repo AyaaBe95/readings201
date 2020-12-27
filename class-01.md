@@ -6,4 +6,4 @@
 
 ### What is the structure of HTML ? ###
 
-![Structure](https://www.oreilly.com/library/view/learning-web-design/9781449337513/httpatomoreillycomsourceoreillyimages2257981.png)
+![Structure](http://www.scriptingmaster.com/images/html/basic-html-tags.GIF)
