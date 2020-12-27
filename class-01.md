@@ -29,5 +29,5 @@
    * When the < aside > element is used inside an <article> element, it should contain information that is related to the article but not essential to its overall meaning. 
    * When the < aside > element is used outside of an <article> element, it acts as a container for content that is related to the entire page.
  - The < section > element groups related content together, and typically each section would have its own heading.
- - The purpose of the <hgroup> element is to group together a set of one or more < h1 > through < h6 > elements so that they are treated as one single heading.
+ - the < hgroup > element is to group together a set of one or more < h1 > through < h6 > elements so that they are treated as one single heading.
  - The < div > tag is used as a container for HTML elements - which is then styled with CSS or manipulated with JavaScript.
