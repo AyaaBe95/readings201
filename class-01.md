@@ -11,8 +11,7 @@
 ### Notes ###
  * DOCTYPES tell browsers which version of HTML we are using.
  * You can add comments to your code between the <!-- and --> markers.
- * The <div> and <span> elements allow you to group block-level and inline elements together.
- * The <div> and <span> elements allow you to group block-level and inline elements together.
+ * The < div > and < span > elements allow you to group block-level and inline elements together.
   
  ### HTML layout ###
  
