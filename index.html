@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Questioning our users</title>
+    <style>
+        body {
+            background-color: pink;
+        }
+
+        li {
+            color: rebeccapurple; 
+        }
+
+        h1 {
+            background-color: silver;
+            color: darkmagenta;
+        }
+    </style>
+  </head>
+  <body>
+      <nav>
+          <ul>
+              <li>Home</li>
+              <li>About us </li>
+              <li>Contact</li>
+          </ul>
+      </nav>
+      <main>
+        <h1>Welcome to our Italian Reasturant</h1>
+        <p style="background-color: rgb(34, 2, 66); color: papayawhip;" >What is your name ? </p>
+        <p style="background-color: silver; color: rgb(163, 6, 85);">Do you love pizza ? </p>
+        <img src="https://pizza-bugs-fun.com/images/stories/pizza.jpg" >
+
+        <p style="background-color: rgb(173, 135, 173); color: rgb(6, 41, 53);">What would you like to drink with pizza?</p>
+        <p style="background-color: rgb(196, 144, 144); color: rgb(216, 13, 165);">Do you like spaghetti?</p>
+        <img src="https://www.thewholesomedish.com/wp-content/uploads/2020/08/The-Best-Classic-Spaghetti-1200-500x375.jpg" >
+
+      </main>
+      <footer>
+          <p>Follow us on :</p>
+          <li> 
+            <a href="https://www.facebook.com">facebook/</a>
+
+          </li>
+
+      </footer>
+      <script>
+          var firstQuestion = prompt('What is your name? ');
+          alert("Welcome "+firstQuestion+ " in our reasturant");
+          console.log(firstQuestion);
+
+          var secondQuestion =  prompt("Do you love pizza ? please answer yes or no ");
+          if (secondQuestion == 'yes'){
+            alert("Great! your answer is " +secondQuestion);
+          }
+          else if (secondQuestion == 'no'){
+            alert("Oops , you should try our pizza ");
+
+          }
+          else {
+            alert("Please answer with yes or no only ");
+          }
+          
+          console.log(secondQuestion);
+
+          var thirdQuestion =  prompt("What would you like to drink with pizza?");
+          alert("You like to drink  "+thirdQuestion + " with pizza");
+          console.log(thirdQuestion);
+
+          var forthQuestion =  prompt("Do you like spaghetti? please answer yes or no only ");
+          if (forthQuestion == 'yes'){
+            alert("Great! your answer is " +forthQuestion);
+          }
+          else if (forthQuestion == 'no'){
+            alert("Oops , you should try our spaghetti ");
+        }
+          else {
+            alert("Please answer with yes or no only ");
+          }
+          console.log(forthQuestion);
+
+      </script>
+  </body>
+</html>
