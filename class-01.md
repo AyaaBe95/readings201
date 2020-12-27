@@ -31,3 +31,34 @@
  - The < section > element groups related content together, and typically each section would have its own heading.
  - the < hgroup > element is to group together a set of one or more < h1 > through < h6 > elements so that they are treated as one single heading.
  - The < div > tag is used as a container for HTML elements - which is then styled with CSS or manipulated with JavaScript.
+  
+## Process ##
+ * ### Who is the Site For? ##
+   - Every website should be designed for the target audience.
+   - we have to ask ourselves few questions before start creating our new web in order to specify the target audince.
+  
+ * ### What is the site map? ##
+   - Site map : is a list of pages of a web site within a domain.
+   - we should create a site map to organize the information of our site into sections or pages.
+ ### Example of site map ###
+ ![sitemap](https://www.atilus.com/wp-content/uploads/2015/12/sitemap.gif)
+ 
+ * ### What is the wireframe? ##
+   -A wireframe is a simple sketch of the key information that needs to go on each page of a site.
+  ### Example of wirefrme ###
+   ![wireframe](https://cdn.tutsplus.com/webdesign/uploads/legacy/tuts/341_wf/wireframes-simple.png)
+   
+## Design ##
+
+* ### Design is about communication. Visual hierarchy helps visitors understand what you are trying to tell them. ###
+* ### You can differentiate between pieces of information using size, color, and style. ###
+* ### You can use grouping and similarity to help simplify the information you present. ###
+
+
+
+
+ 
+ 
+
+
+  
