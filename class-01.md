@@ -44,7 +44,7 @@
  ![sitemap](https://www.atilus.com/wp-content/uploads/2015/12/sitemap.gif)
  
  * ### What is the wireframe? ##
-   -A wireframe is a simple sketch of the key information that needs to go on each page of a site.
+   - A wireframe is a simple sketch of the key information that needs to go on each page of a site.
   ### Example of wirefrme ###
    ![wireframe](https://i.pinimg.com/originals/c3/de/24/c3de24c8c79004b349f12052f76d70b0.png)
    
@@ -53,6 +53,19 @@
 * ### Design is about communication. Visual hierarchy helps visitors understand what you are trying to tell them. ###
 * ### You can differentiate between pieces of information using size, color, and style. ###
 * ### You can use grouping and similarity to help simplify the information you present. ###
+
+## What is Javascript? ##
+
+ ## *JavaScript is a scripting or programming language that allows you to implement complex features on web pages* ##
+
+ ## *JavaScript is written in plain text, just like HTML and CSS, so you do not need any new tools to write a script.* ##
+
+# How we link Javascript with HTML? #
+- ### create an external JavaScript ###
+- ### Save the script file with a .js extension ###
+- ### refer to it using the src attribute in the < script > tag. ###
+
+> ### JavaScript variables are containers for storing data values. ###
 
 
 
