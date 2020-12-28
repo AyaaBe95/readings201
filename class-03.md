@@ -9,5 +9,5 @@
  - Definition lists
     * The definition list is created with the < dl > element and usually consists of a series of terms and their definitions.
     
- > we can put a second list inside an <li> element to create a sublist or nested list.
+ > we can put a second list inside an < li > element to create a sublist or nested list.
  
