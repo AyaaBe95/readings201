@@ -2,7 +2,7 @@
 
  # HTML #
 
-> HTML elements are used t XX o describe the structure of the page.
+> HTML elements are used to describe the structure of the page.
 
 ### What is structural and semantic markup ? ###
 - **Structural markup:** the elements that you can use to describe both headings and paragraphs.
@@ -49,7 +49,7 @@
  
  ## Javascript switch statment ##
  - The switch statement is used to perform different actions based on different conditions.
-  ![Structure1](https://cdn.javascripttutorial.net/wp-content/uploads/2016/08/JavaScript-switch-case.png)
+ ![Structure1](https://cdn.javascripttutorial.net/wp-content/uploads/2016/08/JavaScript-switch-case.png)
   
   ### How it works? ###
  - The switch expression is evaluated once.
