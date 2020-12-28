@@ -28,8 +28,9 @@
  * Declarations indicate how the elements referred to in the selector should be styled. 
  
  ## How we declarate css ? ##
- - CSS declarations sit inside curly brackets and each is made up of two parts: a property and a value, separated by a colon.
  
+ - CSS declarations sit inside curly brackets and each is made up of two parts: a property and a value, separated by a colon.
+
  ![Structure](https://mdn.mozillademos.org/files/9461/css-declaration-small.png)
  
  
