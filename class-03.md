@@ -23,3 +23,30 @@
 - border-color: it specifies the color of a border using either RGB values, hex codes or CSS color names.
 - padding:it specifies how much space should appear between the content of an element and its border.
 - margin:it controls the gap between boxes.
+
+## Decisions and Loops ##
+
+* ### If statement ###
+  - Use the if statement to specify a block of JavaScript code to be executed if a condition is true.
+  - Use the else statement to specify a block of code to be executed if the condition is false.
+ ![Structure1](https://cdn.programiz.com/sites/tutorial2program/files/js-if-else-statement.png)
+
+* ### Switch statement ###
+  - The switch statement is used to perform different actions based on different conditions.
+  - Use the switch statement to select one of many code blocks to be executed.
+![Structure1](https://beginnersbook.com/wp-content/uploads/2017/09/switch_case_flow_diagram_C.jpg)
+
+  * #### How it works? ####
+   - The switch expression is evaluated once.
+   - The value of the expression is compared with the values of each case.
+   - If there is a match, the associated block of code is executed.
+   - If there is no match, the default code block is executed.
+
+
+
+
+
+
+
+
+
