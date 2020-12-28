@@ -47,7 +47,7 @@
  - Arrays are special types of variables that store more than one piece of related information.
  - JavaScript distinguishes between numbers (0-9), strings (text), and Boolean values (true or false).
  
- ## Javascript switch statment ##
+ ## JavaScript switch statement ##
  - The switch statement is used to perform different actions based on different conditions.
  ![Structure1](https://cdn.javascripttutorial.net/wp-content/uploads/2016/08/JavaScript-switch-case.png)
   
