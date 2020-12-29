@@ -8,6 +8,13 @@ var userInput1 = prompt("How are you feeling today? " + userInput);
 
 switch (userInput1) {
 
+<<<<<<< HEAD
+=======
+var userInput1 = prompt("How are you feeling today? "+ userInput); 
+ 
+switch (userInput1) { 
+    
+>>>>>>> a37c791101fadc52dd6ed8942762588fc805d5bb
     case 'good':
     case 'great':
     case 'fine':
@@ -18,6 +25,7 @@ switch (userInput1) {
         break;
 }
 
+<<<<<<< HEAD
 function firstQuestion() {
     var userScore = 0;
     var userInput2 = prompt("Do I love reading ? answer (yes/no or y/n) ")
@@ -34,6 +42,17 @@ function firstQuestion() {
 
     }
     return userScore;
+=======
+    
+var userInput2=prompt("Do I love reading ? answer (yes/no or y/n) ")
+if (userInput2.toLocaleLowerCase == "yes" || "y" ){
+alert("Great! you are right")
+}
+else{
+    alert("Wrong answer,I love reading")
+}
+//console.log(userInput2)
+>>>>>>> a37c791101fadc52dd6ed8942762588fc805d5bb
 
 }
 firstQuestion();
@@ -75,6 +94,10 @@ function thirdQuestion() {
     return userScore;
 
 }
+<<<<<<< HEAD
+=======
+//console.log(userInput4)
+>>>>>>> a37c791101fadc52dd6ed8942762588fc805d5bb
 
 thirdQuestion();
 
@@ -95,6 +118,7 @@ function forthQuestion() {
     return userScore;
 
 }
+<<<<<<< HEAD
 forthQuestion();
 
 function fifthQuestion() {
@@ -136,6 +160,14 @@ function sixthQuestion() {
             break;
         }
     }
+=======
+else{
+    alert("You're right,I didnt graduated in 2017")
+ 
+
+}
+//console.log(userInput5)
+>>>>>>> a37c791101fadc52dd6ed8942762588fc805d5bb
 
     alert('The correct answer is: ' + correctAnswer);
     return userScore;
@@ -161,14 +193,26 @@ function seventhQuestion() {
     return userScore;
 
 }
+<<<<<<< HEAD
 alert('you final score is: ' + (firstQuestion() + secondQuestion() + thirdQuestion() + forthQuestion() + fifthQuestion() + sixthQuestion() + seventhQuestion()));
 
 seventhQuestion();
 
 var userInput9 = confirm("DONE,Have a nice day!");
  if(userInput9){
+=======
+//console.log(userInput6)
+
+var userInput7 = confirm("DONE,Have a nice day!); 
+ console.log(userInput7);
+ if(userInput7){
+>>>>>>> a37c791101fadc52dd6ed8942762588fc805d5bb
      alert('Bye :)');
  } else {
      alert('ok ');
  }
+<<<<<<< HEAD
 
+=======
+//console.log(userInput7)
+>>>>>>> a37c791101fadc52dd6ed8942762588fc805d5bb
