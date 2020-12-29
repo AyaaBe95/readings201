@@ -52,14 +52,7 @@ alert("Wrong answer,I graduated in 2018")
 else{
     alert("You're right,I didnt graduated in 2017")
  
-var userInput7 = confirm("DONE,Have a nice day!); 
- console.log(userInput7);
- if(userInput7){
-     alert('Bye :)');
- } else {
-     alert('ok ');
- }
-//console.log(userInput7)
+
 }
 //console.log(userInput5)
 
@@ -71,3 +64,12 @@ else{
     alert("Wrong answer,I want to complete postgraduate studies")
 }
 //console.log(userInput6)
+
+var userInput7 = confirm("DONE,Have a nice day!); 
+ console.log(userInput7);
+ if(userInput7){
+     alert('Bye :)');
+ } else {
+     alert('ok ');
+ }
+//console.log(userInput7)
