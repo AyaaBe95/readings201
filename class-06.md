@@ -1,4 +1,4 @@
-# Class-05 reading notes #
+# Class-06 reading notes #
 
 * ## WHAT IS AN OBJECT? ##
 - Objects group together a set of variables and functions to create a model of a something you would recognize from the real world.
