@@ -15,7 +15,8 @@
 - The Document Object Model (DOM) specifies how browsers should create a model of an HTML page and how JavaScript can access and update the contents of a web page while it is in the browser window.
 > When a web page is loaded, the browser creates a Document Object Model of the page.
 
-- The HTML DOM model is constructed as a tree of Objects:
+- ### The HTML DOM model is constructed as a tree of Objects: ###
+
   ![Structure2](https://www.w3schools.com/js/pic_htmltree.gif)
   
  - With the object model, JavaScript gets all the power it needs to create dynamic HTML:
