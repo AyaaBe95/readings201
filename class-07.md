@@ -1,4 +1,4 @@
-# Tables #
+# Class07 #
 ## What's a Table? ##
 
 - A table represents information in a grid format. Examples of tables include financial reports, TV schedules, and sports results.
