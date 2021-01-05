@@ -19,6 +19,29 @@
 - action: Every < form > element requires an action attribute.
 - method: Forms can be sent using one of two methods: get or post.
 
-## Lists, Tables & Forms ##
+# Lists, Tables & Forms #
 
-* In addition to the CSS,there are several others that are specifically used to control the appearance of lists, tables, and forms.
+## Lists ##
+
+- The list-style-type property allows you to control the shape or style of a bullet point.
+- You can specify an image to act as a bullet point using the list-style-image property.
+- Lists are indented into the page by default and the list-styleposition property indicates whether the marker should appear on the inside or the outside of the box containing the main points.
+
+## Table Properties ##
+- width to set the width of the table.
+- width to set the width of the table.
+- width to set the width of the table.
+- letter-spacing, font-size to add additional styling to the content of the table headers.
+- border-top, border-bottom to set borders above and below the table headers.
+- text-align to align the writing to the left of some table cells and to the right of the others.
+- background-color to change the background color of the alternating table rows.
+- background-color to change the background color of the alternating table rows.
+
+# Events #
+- HTML events are "things" that happen to HTML elements.
+- When JavaScript is used in HTML pages, JavaScript can "react" on these events.
+
+## HOW EVENTS TRIGGER JAVASCRIPT CODE ##
+- Select the element node(s) you want the script to respond to.
+- Indicate which event on the selected node(s) will trigger the response.
+- State the code you want to run when the event occurs.
