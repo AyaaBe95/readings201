@@ -4,7 +4,7 @@
 - The HTML < audio > element is used to embed sound content in documents.
 - it may contain one or more audio sources, represented using the src attribute or the < source > element.
 - Supported format: Ma4, MP3, WAV, and OGG.
-- Muted attribute: set volumn by default to zero.
+- Muted attribute: set volume by default to zero.
 - Autoplay attribute:the audio will auto play when the page is refreshed.
 
 
@@ -16,7 +16,7 @@
 ## Videos ##
 - The HTML < video > element is used to show a video on a web page.
 - The controls attribute is used for playback control.
-- Muted attribute: set volumn by default to zero.
+- Muted attribute: set volume by default to zero.
 - Autoplay attribute:the audio will auto play when the page is refreshed.
 
 ## HTML video - How It Works ##
