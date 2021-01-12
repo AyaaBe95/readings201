@@ -19,4 +19,4 @@
 ## Google Studies ##
 Google spent millions of dollars to research building the perfect team, a research project called 'Project Aristotle'. The research studied nearly all aspects of employees' lives. The study followed social patterns and interests, and factors that seemed to have an impact on a team's success.
   * google figured out that the work enviromint should be extremely comfortable in order to enable the employees to do their best. 
-  * google figured out that if people love working in the company, they’ll give their bests minds which ultimately translates into business success.
+  * google figured out that if people love working in the company,therefore,they’ll give their bests minds which ultimately translates into business success.
